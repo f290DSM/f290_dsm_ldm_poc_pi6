@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822482765454",
+    "project_id": "f290-ldm-poc-pi6",
+    "storage_bucket": "f290-ldm-poc-pi6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822482765454:android:bb8b6c1b2eb78985dbabdf",
+        "android_client_info": {
+          "package_name": "br.com.fatecararas.f290_dsm_ldm_poc_pi6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1eNrrbYmYXVI3VhxUGe3npSMqJni2pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
